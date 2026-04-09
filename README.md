@@ -45,9 +45,13 @@ https://verifier.ton.org/EQA8Mx1E9_RXEroXSW7PI5EHwEAMxAMhwKLXTlKX-3uQOJWy
 - **Metadata**: https://raw.githubusercontent.com/asratonofficial/ASRA-ton/master/jetton-metadata.json
 - **Logo**: https://raw.githubusercontent.com/asratonofficial/ASRA-ton/master/ASRA.png
 
-## Coming Soon
+## Play Now
 
-Full game launch with ASRA rewards system. Stay tuned!
+ASRA game is live! Start playing and earning rewards today:
+
+- **Telegram Bot**: https://t.me/asragamebot
+- Earn ASRA tokens by playing
+- Withdraw your earnings to your TON wallet
 
 ---
 
