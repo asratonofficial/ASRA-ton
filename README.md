@@ -41,6 +41,7 @@ https://verifier.ton.org/EQA8Mx1E9_RXEroXSW7PI5EHwEAMxAMhwKLXTlKX-3uQOJWy
 
 ## Links
 
+- **Game Bot**: https://t.me/asragamebot
 - **Metadata**: https://raw.githubusercontent.com/asratonofficial/ASRA-ton/master/jetton-metadata.json
 - **Logo**: https://raw.githubusercontent.com/asratonofficial/ASRA-ton/master/ASRA.png
 
