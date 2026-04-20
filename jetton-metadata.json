@@ -1,0 +1,10 @@
+{
+  "name": "ASRA Ton",
+  "symbol": "ASRA",
+  "decimals": "9",
+  "image": "https://raw.githubusercontent.com/asratonofficial/ASRA-Ton/master/ASRA.png",
+  "description": "ASRA Token - One-time mint only. No additional tokens will ever be minted.",
+  "socials": {
+    "telegram": "https://t.me/asragamebot"
+  }
+}

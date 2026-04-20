@@ -1,0 +1,12 @@
+{
+  "name": "ASRA Ton",
+  "symbol": "ASRA",
+  "description": "ASRA Token - One-time mint only. No additional tokens will ever be minted. Total supply: 1,000,000,000 ASRA.",
+  "address": "EQA8Mx1E9_RXEroXSW7PI5EHwEAMxAMhwKLXTlKX-3uQOJWy",
+  "decimals": 9,
+  "image": "https://raw.githubusercontent.com/asratonofficial/ASRA-Ton/master/ASRA.png",
+  "social": [],
+  "websites": [
+    "https://github.com/asratonofficial/ASRA-Ton"
+  ]
+}
